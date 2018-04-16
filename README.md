@@ -2,12 +2,13 @@
 
 This is a starter kit for:
 
-Angular: ^5.0.0
-Bootstrap: ^3.3.7
-Firebase: ^4.12.1
-AngularFire2: ^5.0.0-rc.6.0
-Jquery: ^3.3.1
-Popper.js: ^1.14.3
+Angular: ^5.0.0;
+Angular/CLI: ^1.7.4;
+Bootstrap: ^4.1.0;
+Firebase: ^4.12.1;
+AngularFire2: ^5.0.0-rc.6.0;
+Jquery: ^3.3.1;
+Popper.js: ^1.14.3;
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
